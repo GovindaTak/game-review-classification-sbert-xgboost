@@ -12,9 +12,6 @@ Here's your **detailed README** showcasing your **skills and efforts** in your *
 
 ---
 
-### **📜 Detailed README for Your Project**
-I'll create a structured **README.md** file for your repository. 🚀  
-
 
 # 🎮 Game Review Classification using Sentence Transformers & XGBoost
 
@@ -181,8 +178,7 @@ print(f"Most similar review: {df.iloc[most_similar_idx]['user_review']}")
 Created by **Govinda Tak** 🎮🚀  
 Feel free to contribute, raise issues, or suggest improvements!  
 
-📌 **GitHub Repository Link:** 🔗 _[To be added after upload]_  
-
+📌 **GitHub Repository Link:** 🔗   (https://github.com/GovindaTak/game-review-classification-sbert-xgboost.git)
 ---
 
 ### **📌 Summary**
