@@ -3,7 +3,7 @@ A project that classifies game reviews using Sentence Transformers (SBERT) and M
 
 Here's your **detailed README** showcasing your **skills and efforts** in your **Game Review Classification** project. 🚀  
 
----
+----
 
 ### **📌 GitHub Repository Details**
 - **Repo Name:** `game-review-classification-sbert-xgboost`
