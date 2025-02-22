@@ -1,15 +1,6 @@
 # game-review-classification-sbert-xgboost
 A project that classifies game reviews using Sentence Transformers (SBERT) and Machine Learning models. The first approach uses all-MiniLM-L6-v2 with Logistic Regression, and the second approach improves accuracy with paraphrase-mpnet-base-v2 and XGBoost.
 ------
-
-### **📌 GitHub Repository Details**
-- **Repo Name:** `game-review-classification-sbert-xgboost`
-- **Repo Description:**  
-  _A project that classifies game reviews using Sentence Transformers and Machine Learning models. The first model uses `all-MiniLM-L6-v2` with Logistic Regression (82% accuracy), while the second model improves performance using `paraphrase-mpnet-base-v2` with XGBoost (87% accuracy)._
-
----
-
-
 # 🎮 Game Review Classification using Sentence Transformers & XGBoost
 
 ## 📌 Overview
